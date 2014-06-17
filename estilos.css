@@ -1,3 +1,7 @@
 body {
   background-color: #fe0;
 }
+
+.capitalizado {
+  text-transform: uppercase;
+}
