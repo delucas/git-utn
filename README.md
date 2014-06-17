@@ -1,5 +1,5 @@
-git-utn
-=======
+git-utnfrro
+===========
 
 Demostración de git en la UTN FRRo
 
